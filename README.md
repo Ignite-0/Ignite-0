@@ -34,7 +34,7 @@ I enjoy building practical tools, experimenting with machine learning models, an
 ### 💰 Bitcoin Sentiment Analysis  
 📈 Explored the relationship between **social sentiment** and **Bitcoin price trends** using Python.  
 🧠 Tools: Pandas, Matplotlib, Jupyter Notebook.  
-🔗 [View Repository](https://github.com/Ignite-0/bitcoin-sentiment-analysis)
+🔗 [View Repository](https://github.com/Ignite-0/covid-bitcoin-sentiment-analysis)
 
 ---
 
