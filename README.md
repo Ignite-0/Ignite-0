@@ -1,202 +1,113 @@
 <div align="center">
 
-# Hi, I'm Faizur Rahman
+# Faizur Rahman
 
-### Building AI Systems • Data-Driven Applications • Full-Stack Solutions
+Building AI systems, data-driven applications, and modern software.
 
 Tokyo, Japan
 
-
+<a href="https://www.linkedin.com/in/faizur-rahman">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:faizurhimel.10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
 I enjoy building projects at the intersection of artificial intelligence, data, software, and business.
 
-My work includes machine learning, natural language processing, data analytics, full-stack development, and cybersecurity. I am particularly interested in creating systems that automate workflows, extract insights from data, and solve practical problems.
-
-Currently exploring:
-
-* Artificial Intelligence and Machine Learning
-* Natural Language Processing and LLMs
-* AI Agents and Automation
-* Data Analytics and Predictive Modeling
-* Full-Stack Web Applications
-* Cybersecurity and Network Analysis
-* Edge AI and Efficient Inference
+My work includes machine learning, natural language processing, data analytics, full-stack development, and cybersecurity. I am particularly interested in automation, intelligent systems, and practical applications of AI.
 
 ---
 
-## Technologies
+## Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,r" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,r" />
 </p>
 
-### Data & Analytics
+### AI, Data & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-* Pandas
-* NumPy
-* Scikit-Learn
-* Jupyter Notebook
-* Orange Data Mining
-* Data Preprocessing
-* Exploratory Data Analysis
-* Feature Engineering
-* Predictive Modeling
-* Model Evaluation
-
-### Artificial Intelligence
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-* Machine Learning
-* Natural Language Processing
-* Hugging Face Transformers
-* Sentiment Analysis
-* Text Classification
-* Embeddings
-* LLM Applications
-* AI Agent Development
+Pandas • NumPy • Scikit-Learn • Jupyter • Hugging Face • Machine Learning • NLP • Data Analysis
 
 ### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs" />
 </p>
 
-* REST APIs
-* Authentication Systems
-* Stripe Integration
-* Responsive Web Development
-* Modern Web Architecture
+Next.js • React • REST APIs • Authentication • Stripe • Responsive Web Applications
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
 </p>
 
-* PostgreSQL
-* Supabase
-* Prisma ORM
-* Relational Database Design
+PostgreSQL • Supabase • Prisma ORM
 
 ### Systems & Security
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
 
-* Linux
-* TCP/IP
-* ICMP
-* Network Analysis
-* Penetration Testing Fundamentals
-* Security Research
+Linux • Networking • TCP/IP • Security Research
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Credit Card Approval Prediction
 
-Developed an end-to-end machine learning workflow involving data preprocessing, feature engineering, predictive modeling, and performance evaluation.
-
-**Tech Stack:** Python • Pandas • NumPy • Scikit-Learn
-
----
+Machine learning pipeline for prediction, feature engineering, and model evaluation.
 
 ### NLP Text Analytics
 
-Built transformer-based NLP pipelines for sentiment analysis and fake news detection using modern language models and text processing techniques.
-
-**Tech Stack:** Python • Hugging Face Transformers
-
----
+Transformer-based sentiment analysis and fake news detection systems.
 
 ### Full-Stack E-Commerce Platform
 
-Designed and developed a production-grade grocery platform featuring authentication, inventory management, payment processing, and responsive user interfaces.
+Production-grade platform built with Next.js, PostgreSQL, Supabase, and Stripe.
 
-**Tech Stack:** Next.js • TypeScript • PostgreSQL • Prisma ORM • Supabase • Stripe
+### Edge AI Research
 
----
+Knowledge distillation and model compression for resource-constrained devices.
 
-### Folded Knowledge Projection for Edge AI
+### Cybersecurity Labs
 
-Research project focused on model compression, knowledge distillation, and efficient inference for resource-constrained devices.
-
-**Focus Areas:** Edge AI • Knowledge Distillation • Machine Learning Research
+Network analysis, protocol research, and controlled security experiments.
 
 ---
 
-### Cybersecurity & Network Analysis Lab
+## Currently Exploring
 
-Conducted controlled network security experiments and traffic analysis to better understand vulnerabilities, protocols, and defensive strategies.
-
-**Focus Areas:** TCP/IP • ICMP • SYN Analysis • Security Testing
-
----
-
-## Currently Building
-
-```text
-AI Agents
-Automation Systems
-Machine Learning Applications
-Data Analytics Projects
-Full-Stack Web Platforms
-Local AI Workflows
-```
-
----
-
-## Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Natural Language Processing
-* Generative AI
 * AI Agents
-* Data Analytics
+* Automation Systems
+* Large Language Models
 * Data Engineering
-* Full-Stack Development
+* Edge AI
 * Cybersecurity
-* Edge Computing
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ignite-0&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignite-0&layout=compact&hide_border=true" />
-</p>
-
----
-
-## Connect
-
-Email: [faizurhimel.10@gmail.com](mailto:faizurhimel.10@gmail.com)
-
-LinkedIn: https://www.linkedin.com/in/faizur-rahman
-
-Tokyo, Japan
 
 ---
 
