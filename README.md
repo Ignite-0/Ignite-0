@@ -81,9 +81,6 @@ Transformer-based sentiment analysis and fake news detection systems.
 
 Production-grade platform built with Next.js, PostgreSQL, Supabase, and Stripe.
 
-### Edge AI Research
-
-Knowledge distillation and model compression for resource-constrained devices.
 
 ### Cybersecurity Labs
 
